@@ -1,0 +1,5 @@
+--Insert into SYSTEM.ProductAPI(ID,PROD_DESCRIPTION,PROD_KEYWORDS,PAGE_TITLE,SITE_NAME,PROD_MODEL_NUMBER,PROD_NAME,CURRENT_PRICE,
+--STANDARD_PRICE,STANDARD_PRICE_NO_VAT,SUB_TITLE,TEXT,TITLE)
+--values(5,'Shop for  Jogger Shoes','Running Shoes',' Nite Jogger Shoes White',
+--'adidas United Kingdom','BTO93','Nite  Shoes',34.56,44.78,34.98,'Modern cushioni',
+--'Inspired bight','Adidas');
