@@ -1,3 +1,4 @@
+/*
 package com.devesh.code.OddEven;
 
 import java.math.BigInteger;
@@ -59,3 +60,4 @@ public class SquareofOddEven {
 
     }
 }
+*/
